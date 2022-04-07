@@ -15,7 +15,7 @@ const Footer = () => {
           <p className="mr-4">Follow Us:</p>
           <Link href={"https:/facebook.com"}>
             <a target={"_blank"}>
-              <FaFacebook className="mr-4 text-blue-800 cursor-pointer text-2" />
+              <FaFacebook className="mr-4 text-blue-800 cursor-pointer text-2xl" />
             </a>
           </Link>
           <Link href={"https://instagram.com"}>
